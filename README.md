@@ -1,6 +1,6 @@
 # HTML link parser package implementation (This is an exercice from gophercises.com)
 
-This package allow you to parse an HTML file and extract all of the links (<a href="">...</a> tags).
+This package allow you to parse an HTML file and extract all of the links (`<a href="">...</a>` tags).
 
 ## Exemple:
 
