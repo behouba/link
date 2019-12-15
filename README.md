@@ -1,4 +1,5 @@
-# HTML link parser package implementation (This is an exercice from gophercises.com)
+# HTML link parser package implementation 
+## This is an exercice from gophercises.com
 
 This package allow you to parse an HTML file and extract all of the links (<a href="">...</a> tags).
 
@@ -18,7 +19,7 @@ to extract all links from this HTML documents:
 we use the Parse function as follow: 
 
 ```go
-    package main
+package main
 
 import (
 	"log"
