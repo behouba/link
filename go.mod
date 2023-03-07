@@ -1,5 +1,5 @@
 module github.com/behouba/link
 
-go 1.13
+go 1.20
 
-require golang.org/x/net v0.0.0-20191209160850-c0dbc17a3553
+require golang.org/x/net v0.8.0
